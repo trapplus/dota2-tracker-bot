@@ -1,7 +1,12 @@
 [project]
-name = "dota2-match-tracker-bot"
+name = "dota-tracker-bot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Dota 2 tracker telegram bot, based on Stratz API and OpenDota API "
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.13"
+dependencies = [
+    "aiogram>=3.24.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+]

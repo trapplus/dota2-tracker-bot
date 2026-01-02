@@ -1,5 +1,5 @@
 def main():
-    print("Hello from dota2-match-tracker-bot!")
+    exit()
 
 
 if __name__ == "__main__":
