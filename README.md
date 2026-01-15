@@ -12,6 +12,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [opendota](https://opendota.com/) for alternative providing the Dota 2 API
 - [aiogram](https://docs.aiogram.dev/) for the Telegram Bot framework
 
+## TODO
+
+- [X]  Base bot and pm pm handler
+- [ ]  opendota API and base abs
+- [ ]  custom opendota exception
+- [ ]  inline mode handler, keyboard
+- [ ]  formatter for inline fetch handler
+
+
+
 
 ## Support
 
